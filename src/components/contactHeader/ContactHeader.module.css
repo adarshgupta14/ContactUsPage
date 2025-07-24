@@ -1,0 +1,14 @@
+.contact_head {
+    margin: 0 30vh;
+}
+
+
+.contact_head h1{
+    font-size: 48px;
+    font-weight: 800;
+}
+
+.contact_head p{
+    font-weight: 500;
+    max-width: 80%;
+}
